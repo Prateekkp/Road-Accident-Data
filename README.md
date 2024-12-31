@@ -98,11 +98,6 @@ This dashboard focuses on understanding road accidents from 2021 and 2022, using
 
 ---
 
-## 6. Conclusion
-The analysis highlights the significant role of single carriageways, urban areas, and cars in road casualties. By addressing these factors, stakeholders can reduce accident rates and casualties effectively. Seasonal trends also underscore the importance of proactive measures during monsoon and winter months.
-
----
-
 ## 7. Visualizations and Filters
 ### **Visualizations Used**:
 1. **Donut Chart**:
@@ -118,3 +113,8 @@ The analysis highlights the significant role of single carriageways, urban areas
 - **Year**: 2021, 2022.
 - **Month**: Jan, Feb,...Dec.
 - **Area**: Urban or Rural.
+
+---
+
+## 6. Conclusion
+The analysis highlights the significant role of single carriageways, urban areas, and cars in road casualties. By addressing these factors, stakeholders can reduce accident rates and casualties effectively. Seasonal trends also underscore the importance of proactive measures during monsoon and winter months.

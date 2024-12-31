@@ -65,7 +65,7 @@ This dashboard focuses on understanding road accidents from 2021 and 2022, using
 ![2021 Insight](images-road-accident-analysis/2021-insights.png)
 
 ### **3) 2022 Insights**:
-- **Total Casualties**: **155,804**
+- **Total Casualties**: **195,737**
 - Key Factors:
   - Cars again contribute **79.6%** of casualties.
   - Slight injuries increase to **84.7%** of cases.

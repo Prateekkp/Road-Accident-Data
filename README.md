@@ -36,7 +36,7 @@ This dashboard focuses on understanding road accidents from 2021 and 2022, using
 3. Environmental and situational factors contributing to accidents.
 
 ### Excel Dashboard Preview
-![Road Accident Dashboard](path/to/your/excel-dashboard-image.png)
+![Road Accident Dashboard](images-road-accident-analysis/full-excel-dashboard-preview.png)
 
 ---
 
@@ -51,6 +51,9 @@ This dashboard focuses on understanding road accidents from 2021 and 2022, using
 - **Vehicle Vulnerability**: Cars contribute **79.8%** of casualties.
 - **Injury Severity**: **Slight injuries** account for **84.1%** of cases.
 
+### Overall Insight
+![Overall Insight](images-road-accident-analysis/Overall-preview.png)
+
 ### **2) 2021 Insights**:
 - **Total Casualties**: **222,146**
 - Key Factors:
@@ -58,12 +61,18 @@ This dashboard focuses on understanding road accidents from 2021 and 2022, using
   - Slight injuries comprise **83.5%** of total casualties.
   - Other factors mirror overall trends (dry roads, daylight, urban areas).
 
+### 2021 Insight
+![2021 Insight](images-road-accident-analysis/2021-insights.png)
+
 ### **3) 2022 Insights**:
 - **Total Casualties**: **155,804**
 - Key Factors:
   - Cars again contribute **79.6%** of casualties.
   - Slight injuries increase to **84.7%** of cases.
   - Other environmental conditions remain consistent.
+
+### 2022 Insight
+![2022 Insight](images-road-accident-analysis/2022-insights.png)
 
 ### **4) Monthly Analysis**:
 - **January**: Wet surfaces dominate.

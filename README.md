@@ -1,4 +1,4 @@
-# Road Accident Data Analytics Dashboard
+# Road Accident Data Analysis Dashboard
 
 ## 1. Background and Overview
 Road accidents remain a critical public health and safety challenge. This project delves into a comprehensive analysis of road accident data from Great Britain spanning 2021 and 2022. By meticulously examining these data, we aim to uncover crucial insights that will empower key stakeholders – the Ministry of Transport, Police Force, Emergency Services, and the broader public – to implement data-driven strategies for enhanced road safety.
